@@ -1,0 +1,15 @@
+/*Sencha Touch CSS*/
+.x-hidden-offsets {
+  position: absolute !important;
+  left: -10000em;
+  top: -10000em;
+  visibility: hidden;
+}
+
+.x-hidden-display{
+  display: none !important;
+}
+
+.x-hidden-visibility {
+  visibility: hidden !important;
+}
