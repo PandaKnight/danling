@@ -1,5 +1,5 @@
 /**
- * Created by Michael on 15-1-21.
+ * 应用程序入口
  */
 
 /**

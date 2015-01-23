@@ -8,6 +8,8 @@
  */
 var DL = Ext;
 
+DL.require();
+
 DL.application({
     name: 'danlingapp',
     launch: function() {
